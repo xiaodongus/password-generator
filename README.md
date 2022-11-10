@@ -1,6 +1,6 @@
 # password-generator
 
-预览地址：https://mrjooz.github.io/password-generator/
+预览地址：https://pwd6.pages.dev/
 
 ## password-generator 是什么？
 
@@ -15,13 +15,7 @@ password-generator 是一款密码生成工具，用户只需要记住记忆密�
 
 ## 页面截图
 
-![](https://github.com/mrjooz/password-generator/blob/master/screenshot.png)
-
-## 问题反馈
-
-在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
-
-- 邮件(i#mrjooz.com, 把#换成@)
+![](https://github.com/xiaodongus/password-generator/blob/master/screenshot.png)
 
 ## 感激
 
